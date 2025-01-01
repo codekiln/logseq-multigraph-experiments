@@ -3,21 +3,16 @@
 logseq/bak
 logseq/pages-metadata.edn.bak*
 logseq/.recycle
-public/
 
-# Node modules
-node_modules/
+# in multi-graph setups, having more than one of these can causse conflicts
+# that prevent symlinking pages
+# see also https://discuss.logseq.com/t/is-it-possible-to-disable-logseq-create-contents-page-automatically/25587/3
+contents.md
 
 # OS generated files
 .DS_Store
 Thumbs.db
 
-# Logs
-logs/
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 
 # Environment variables
 .env
