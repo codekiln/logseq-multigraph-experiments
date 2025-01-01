@@ -1,0 +1,9 @@
+{
+    "dependent-graphs": [
+        {
+            "local-graph-path": "../python",
+            "local-folder": "python",
+            "only-files-beginning-with": "Python"
+        }
+    ]
+}
