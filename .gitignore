@@ -1,6 +1,8 @@
 # Logseq generated files
 .logseq/
-logseq/
+logseq/bak
+logseq/pages-metadata.edn.bak*
+logseq/.recycle
 public/
 
 # Node modules
