@@ -1,4 +1,5 @@
-- ### DOING #Describe how 03-copy-pages-script should work
+- ### 03-copy-pages-script 
+	- see the docstring to [sync_dependencies.py](./sync_dependencies.py) for a more full description of this prototype
 	- #### **assumptions**
 		- multiple Logseq Graphs are in the same directory as sibling directories
 		- each Logseq Graph may optionally put in it's root directory a `dependencies.json` that expresses the files it wishes to be sync'd over from another graph. A `sync_dependencies.py` script will use that to implement the dependencies.
