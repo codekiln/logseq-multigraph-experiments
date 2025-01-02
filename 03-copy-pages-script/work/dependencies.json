@@ -1,0 +1,14 @@
+{
+    "dependent-graphs": [
+        {
+            "local-graph-path": "../python",
+            "namespaces-to-sync": [
+                {
+                    "source-namespace-name": "Python",
+                    "target-namespace-name": "Python",
+                    "overwrite-if-source-is-newer": true
+                }
+            ]
+        }
+    ]
+}
