@@ -1,13 +1,11 @@
 # Logseq generated files
 .logseq/
 logseq/bak
+**/logseq/bak
+**/logseq/.recycle
 logseq/pages-metadata.edn.bak*
 logseq/.recycle
 
-# in multi-graph setups, having more than one of these can causse conflicts
-# that prevent symlinking pages
-# see also https://discuss.logseq.com/t/is-it-possible-to-disable-logseq-create-contents-page-automatically/25587/3
-contents.md
 
 # OS generated files
 .DS_Store
