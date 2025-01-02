@@ -1,2 +1,0 @@
-- detect python version with [vermin](https://pypi.org/project/vermin/)
--
